@@ -1,0 +1,13 @@
+.btn {
+  padding-top: 39px;
+  &__join {
+    width: 130px;
+    height: 38px;
+    background-color: #f16d7f;
+    border: none;
+    cursor: pointer;
+  }
+  &__join p {
+    color: white;
+  }
+}

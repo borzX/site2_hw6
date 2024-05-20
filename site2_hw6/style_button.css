@@ -1,0 +1,13 @@
+.btn {
+  padding-top: 39px;
+}
+.btn__join {
+  width: 130px;
+  height: 38px;
+  background-color: #f16d7f;
+  border: none;
+  cursor: pointer;
+}
+.btn__join p {
+  color: white;
+}/*# sourceMappingURL=style_button.css.map */
